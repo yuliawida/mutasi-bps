@@ -1,7 +1,7 @@
 # MUTA-BPS: Aplikasi Mutasi Pegawai BPS
 
 ## Deskripsi
-MUTA-BPS adalah aplikasi untuk melakukan mutasi pegawai di BPS (Badan Pusat Statistik). Aplikasi ini memungkinkan pegawai BPS untuk melakukan pendaftaran, login, mengubah profil, dan mengajukan permohonan mutasi dengan menggunakan sistem berbasis web dan aplikasi Android.
+MUTA-BPS adalah aplikasi untuk melakukan mutasi pegawai di BPS (Badan Pusat Statistik). Aplikasi ini memungkinkan pegawai BPS untuk melakukan pendaftaran, login, mengubah profil, dan mengajukan permohonan mutasi dengan aplikasi Android.
 
 ## Penulis
 **Nama**: Yulia Wida Kharisma  
