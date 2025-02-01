@@ -1,0 +1,64 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="@color/white"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Nama -->
+        <TextView
+            android:id="@+id/tvNama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Pengguna"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <!-- Status di Pojok Kanan Atas -->
+        <TextView
+            android:id="@+id/tvStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:text="Pending"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/biru" />
+
+        <!-- NIP -->
+
+        <!-- Unit Kerja Tujuan -->
+        <TextView
+            android:id="@+id/tvUnitKerjaTujuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvNama"
+            android:layout_marginTop="4dp"
+            android:text="Unit Kerja Tujuan: Divisi IT"
+            android:textSize="14sp"
+            android:textColor="@color/black" />
+
+        <!-- Tombol Detail -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvUnitKerjaTujuan"
+            android:layout_marginTop="12dp"
+            android:layout_alignParentEnd="true"
+            android:text="Lihat Detail"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/biru"
+            app:cornerRadius="8dp" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

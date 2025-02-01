@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_approval_list.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_approval_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_mutation_list.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_mutation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\item_mutation_request.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\item_mutation_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\fragment_approval_list.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\fragment_approval_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\fragment_home_admin.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\fragment_home_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_mutation_request_detail_admin.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_mutation_request_detail_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_create_mutation_request.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_create_mutation_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_home_admin.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_home_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_mutation_request_detail.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_mutation_request_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\item_approval_letter.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\item_approval_letter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\fragment_mutation_list.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\fragment_mutation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_approval_letter_detail.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_approval_letter_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.polstat.mutasibps.app-mergeDebugResources-48:/layout/item_mutation_request.xml",
+        "source": "com.polstat.mutasibps.app-main-51:/layout/item_mutation_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-mergeDebugResources-48:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.9\\com.polstat.mutasibps.app-main-51:\\layout\\activity_edit_profile.xml"
+    }
+]

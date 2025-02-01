@@ -1,0 +1,52 @@
+com.polstat.mutasibps.app-activity-ktx-1.10.0-0 C:\Users\ASUS\.gradle\caches\8.9\transforms\04651966be2f57d90475f1e8da05d454\transformed\activity-ktx-1.10.0\res
+com.polstat.mutasibps.app-profileinstaller-1.4.0-1 C:\Users\ASUS\.gradle\caches\8.9\transforms\15d5a87d8368fa2db0b8e754bc3e0e7a\transformed\profileinstaller-1.4.0\res
+com.polstat.mutasibps.app-lifecycle-process-2.8.7-2 C:\Users\ASUS\.gradle\caches\8.9\transforms\20ec3638953433dd69a33d040831d523\transformed\lifecycle-process-2.8.7\res
+com.polstat.mutasibps.app-savedstate-ktx-1.2.1-3 C:\Users\ASUS\.gradle\caches\8.9\transforms\2c5c1468f5063491f7da2321ff207ab5\transformed\savedstate-ktx-1.2.1\res
+com.polstat.mutasibps.app-fragment-ktx-1.6.2-4 C:\Users\ASUS\.gradle\caches\8.9\transforms\30af04da6467af1290a0e55c5e0dc1dd\transformed\fragment-ktx-1.6.2\res
+com.polstat.mutasibps.app-lifecycle-livedata-ktx-2.8.7-5 C:\Users\ASUS\.gradle\caches\8.9\transforms\326c6e74e27802c8ea16d1598d94d247\transformed\lifecycle-livedata-ktx-2.8.7\res
+com.polstat.mutasibps.app-recyclerview-1.1.0-6 C:\Users\ASUS\.gradle\caches\8.9\transforms\3c15b1bcb3dad7521a54ed530ec4e0c6\transformed\recyclerview-1.1.0\res
+com.polstat.mutasibps.app-activity-1.10.0-7 C:\Users\ASUS\.gradle\caches\8.9\transforms\4673ee3eb930bf0e72b4818dcb40073f\transformed\activity-1.10.0\res
+com.polstat.mutasibps.app-navigation-ui-ktx-2.8.5-8 C:\Users\ASUS\.gradle\caches\8.9\transforms\59ece8fbe939715f8d30d742acf6ccb5\transformed\navigation-ui-ktx-2.8.5\res
+com.polstat.mutasibps.app-navigation-common-2.8.5-9 C:\Users\ASUS\.gradle\caches\8.9\transforms\5e66f465cc4d9339cdc8fb1b9be64a24\transformed\navigation-common-2.8.5\res
+com.polstat.mutasibps.app-navigation-common-ktx-2.8.5-10 C:\Users\ASUS\.gradle\caches\8.9\transforms\6088ffb68f1044faa5fbcf3df2e6c91e\transformed\navigation-common-ktx-2.8.5\res
+com.polstat.mutasibps.app-emoji2-views-helper-1.3.0-11 C:\Users\ASUS\.gradle\caches\8.9\transforms\66192cf73642b7417d3f5b59eb51a060\transformed\emoji2-views-helper-1.3.0\res
+com.polstat.mutasibps.app-lifecycle-runtime-release-12 C:\Users\ASUS\.gradle\caches\8.9\transforms\66582d3e1830df3e88a9ac0d9b9776f7\transformed\lifecycle-runtime-release\res
+com.polstat.mutasibps.app-appcompat-resources-1.7.0-13 C:\Users\ASUS\.gradle\caches\8.9\transforms\7034df2dfcf91b569e53b49a20237dc8\transformed\appcompat-resources-1.7.0\res
+com.polstat.mutasibps.app-navigation-runtime-ktx-2.8.5-14 C:\Users\ASUS\.gradle\caches\8.9\transforms\72397362f8b1ac3fc2150e8acdbf8424\transformed\navigation-runtime-ktx-2.8.5\res
+com.polstat.mutasibps.app-lifecycle-runtime-ktx-release-15 C:\Users\ASUS\.gradle\caches\8.9\transforms\7276764acfcb1f655aeabe19e2d590f6\transformed\lifecycle-runtime-ktx-release\res
+com.polstat.mutasibps.app-navigation-ui-2.8.5-16 C:\Users\ASUS\.gradle\caches\8.9\transforms\7fdea12f25a2d618f459fcacd019d7ce\transformed\navigation-ui-2.8.5\res
+com.polstat.mutasibps.app-lifecycle-livedata-core-ktx-2.8.7-17 C:\Users\ASUS\.gradle\caches\8.9\transforms\833eb4d53192f7b835647ba3d282d3e2\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.polstat.mutasibps.app-navigation-runtime-2.8.5-18 C:\Users\ASUS\.gradle\caches\8.9\transforms\85fae58a8300d2c960f8ae6b45e52526\transformed\navigation-runtime-2.8.5\res
+com.polstat.mutasibps.app-cardview-1.0.0-19 C:\Users\ASUS\.gradle\caches\8.9\transforms\886f6c0ce693a375dcb020d6d6b1b142\transformed\cardview-1.0.0\res
+com.polstat.mutasibps.app-material-1.12.0-20 C:\Users\ASUS\.gradle\caches\8.9\transforms\8ce6460f17747fbb800b098b5cdc06f7\transformed\material-1.12.0\res
+com.polstat.mutasibps.app-startup-runtime-1.1.1-21 C:\Users\ASUS\.gradle\caches\8.9\transforms\93ba5bf8b9060abd65d06c78526e8b13\transformed\startup-runtime-1.1.1\res
+com.polstat.mutasibps.app-annotation-experimental-1.4.1-22 C:\Users\ASUS\.gradle\caches\8.9\transforms\93d61dbc5ac782fa3dc5c5c4ea880194\transformed\annotation-experimental-1.4.1\res
+com.polstat.mutasibps.app-core-ktx-1.15.0-23 C:\Users\ASUS\.gradle\caches\8.9\transforms\9934a8124af8ed93f193133e2a1d8cf5\transformed\core-ktx-1.15.0\res
+com.polstat.mutasibps.app-drawerlayout-1.1.1-24 C:\Users\ASUS\.gradle\caches\8.9\transforms\9934f4be2f12d13587f500a98f3149ef\transformed\drawerlayout-1.1.1\res
+com.polstat.mutasibps.app-lifecycle-viewmodel-ktx-2.8.7-25 C:\Users\ASUS\.gradle\caches\8.9\transforms\9d9dbd49dd17722f974dad7574f63337\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.polstat.mutasibps.app-navigation-fragment-ktx-2.8.5-26 C:\Users\ASUS\.gradle\caches\8.9\transforms\a03719a8773ffa7838564e9eb426850d\transformed\navigation-fragment-ktx-2.8.5\res
+com.polstat.mutasibps.app-lifecycle-livedata-2.8.7-27 C:\Users\ASUS\.gradle\caches\8.9\transforms\b5ecab85df58d738906453598106efef\transformed\lifecycle-livedata-2.8.7\res
+com.polstat.mutasibps.app-emoji2-1.3.0-28 C:\Users\ASUS\.gradle\caches\8.9\transforms\c4f01c2bbe54bd3cbdcaf7396541318a\transformed\emoji2-1.3.0\res
+com.polstat.mutasibps.app-coordinatorlayout-1.1.0-29 C:\Users\ASUS\.gradle\caches\8.9\transforms\c4f9a17b2911748e938d7c9ec0f0445d\transformed\coordinatorlayout-1.1.0\res
+com.polstat.mutasibps.app-lifecycle-viewmodel-savedstate-2.8.7-30 C:\Users\ASUS\.gradle\caches\8.9\transforms\c88ca304d9b33b4145a464dc088ce48d\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.polstat.mutasibps.app-appcompat-1.7.0-31 C:\Users\ASUS\.gradle\caches\8.9\transforms\ca0663df51547f8f0a7b4ca53ba6e45d\transformed\appcompat-1.7.0\res
+com.polstat.mutasibps.app-window-1.0.0-32 C:\Users\ASUS\.gradle\caches\8.9\transforms\ce821bdd18c4bf67515e6e8eb2220b6d\transformed\window-1.0.0\res
+com.polstat.mutasibps.app-core-runtime-2.2.0-33 C:\Users\ASUS\.gradle\caches\8.9\transforms\d34a73e12bb115d6e1824fadf1297a8d\transformed\core-runtime-2.2.0\res
+com.polstat.mutasibps.app-transition-1.5.0-34 C:\Users\ASUS\.gradle\caches\8.9\transforms\d6d1459ee5250ae18e3b830593f67e5a\transformed\transition-1.5.0\res
+com.polstat.mutasibps.app-lifecycle-livedata-core-2.8.7-35 C:\Users\ASUS\.gradle\caches\8.9\transforms\db4ea6181e2f54a8fcc2a73eb461e796\transformed\lifecycle-livedata-core-2.8.7\res
+com.polstat.mutasibps.app-constraintlayout-2.2.0-36 C:\Users\ASUS\.gradle\caches\8.9\transforms\df9ac1b743785c2fd55bed77385f1b61\transformed\constraintlayout-2.2.0\res
+com.polstat.mutasibps.app-core-1.15.0-37 C:\Users\ASUS\.gradle\caches\8.9\transforms\e3d3560bc5e80360ff4d372f4e90547a\transformed\core-1.15.0\res
+com.polstat.mutasibps.app-lifecycle-viewmodel-release-38 C:\Users\ASUS\.gradle\caches\8.9\transforms\e76542e721f066d093b044a690c54fbe\transformed\lifecycle-viewmodel-release\res
+com.polstat.mutasibps.app-slidingpanelayout-1.2.0-39 C:\Users\ASUS\.gradle\caches\8.9\transforms\ea234eef31705819b1b829a7eb77a14f\transformed\slidingpanelayout-1.2.0\res
+com.polstat.mutasibps.app-viewpager2-1.0.0-40 C:\Users\ASUS\.gradle\caches\8.9\transforms\f209064500ba75a3046f31fc09bc2916\transformed\viewpager2-1.0.0\res
+com.polstat.mutasibps.app-fragment-1.6.2-41 C:\Users\ASUS\.gradle\caches\8.9\transforms\f24f1183323881969c0f6e85fab14009\transformed\fragment-1.6.2\res
+com.polstat.mutasibps.app-savedstate-1.2.1-42 C:\Users\ASUS\.gradle\caches\8.9\transforms\f9ef792f3901624fd5ceeef85c8b97cd\transformed\savedstate-1.2.1\res
+com.polstat.mutasibps.app-tracing-1.2.0-43 C:\Users\ASUS\.gradle\caches\8.9\transforms\feffea4e7887b062ec7538648d29dfba\transformed\tracing-1.2.0\res
+com.polstat.mutasibps.app-navigation-fragment-2.8.5-44 C:\Users\ASUS\.gradle\caches\8.9\transforms\ffa602e8b2584934f3535adc26ad96ba\transformed\navigation-fragment-2.8.5\res
+com.polstat.mutasibps.app-pngs-45 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\build\generated\res\pngs\debug
+com.polstat.mutasibps.app-resValues-46 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\build\generated\res\resValues\debug
+com.polstat.mutasibps.app-packageDebugResources-47 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.polstat.mutasibps.app-packageDebugResources-48 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.polstat.mutasibps.app-debug-49 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.polstat.mutasibps.app-debug-50 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\src\debug\res
+com.polstat.mutasibps.app-main-51 D:\SMT 5\PPK\UAS-BISMILLAH SEHARI TUNTAS\MutasiBPS\app\src\main\res

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.CreateMutationRequestActivity">
+
+    <!-- Container Header -->
+    <RelativeLayout
+        android:id="@+id/headerContainer"
+        android:layout_width="0dp"
+        android:layout_height="56dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <!-- Back Button -->
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Kembali"
+            app:tint="@color/biru"
+            android:src="@drawable/ic_arrow_back"
+            android:padding="8dp" />
+
+        <!-- Header Text -->
+        <TextView
+            android:id="@+id/headerText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Pengajuan Mutasi"
+            android:textColor="@color/biru"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+    </RelativeLayout>
+
+    <!-- Scroll View -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/headerContainer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Nama -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputNama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Nama"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etNama"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- NIP -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputNip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan NIP"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etNip"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Jabatan Sekarang -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputJabatanSekarang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Jabatan Sekarang"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etJabatanSekarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Unit Kerja Sekarang -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputUnitKerjaSekarang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Unit Kerja Sekarang"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etUnitKerjaSekarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Provinsi Tujuan -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputProvinsi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Provinsi Tujuan"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etProvinsi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Kabupaten Tujuan -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputKabupaten"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Kabupaten Tujuan"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etKabupaten"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Jabatan Tujuan -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputJabatanTujuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Jabatan Tujuan"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etJabatanTujuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Unit Kerja Tujuan -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/inputUnitKerjaTujuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukkan Unit Kerja Tujuan"
+                app:boxStrokeColor="@color/biru"
+                android:layout_marginBottom="16dp"> <!-- Jarak bawah -->
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etUnitKerjaTujuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Submit Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSubmit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:backgroundTint="@color/biru"
+                android:text="Submit"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                app:cornerRadius="24dp" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

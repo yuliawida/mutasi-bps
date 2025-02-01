@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home Menu -->
+    <item
+        android:id="@+id/nav_user_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <!-- Mutation List Menu -->
+    <item
+        android:id="@+id/nav_user_mutation_list"
+        android:icon="@drawable/ic_mutation"
+        android:title="Mutations" />
+
+    <!-- Profile Menu -->
+    <item
+        android:id="@+id/nav_user_edit_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+</menu>
